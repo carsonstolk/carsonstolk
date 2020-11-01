@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I’m currently learning engineering at McMaster University\
+How to reach me:\
+Email: <stolkc@mcmaster.ca>\
+Cell: [905-324-1753](tel:9053241753)
 <!--
 **carsonstolk/carsonstolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
